@@ -1,5 +1,5 @@
 <?php
-test me
+//test me
 /**
  *
  * Twitter Bootstrap CakePHP Default Layout
